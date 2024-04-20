@@ -74,7 +74,7 @@ onMounted(getWeather)
   align-items: center
   min-height: 100vh
   padding: 20px 0
-  background-color: #b0acb0
+  background-color: #f3f0f3
 
 .laptop
   width: 100%
